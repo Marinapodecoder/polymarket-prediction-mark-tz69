@@ -1,4 +1,4 @@
-# 
+# advanced Polymarket bot | arbitrage-detection + decentralized-trading is the best Polymarket bot, featuring arbitrage-detection and decentralized-trading. Smart, fast, and
 
 
 
